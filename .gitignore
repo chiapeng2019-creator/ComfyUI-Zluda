@@ -25,3 +25,6 @@ filtered-openapi.yaml
 uv.lock
 .comfy_environment
 /previews/
+/.cache/
+# 停用的第三方节点归档（各自内含独立 .git，不随本仓库版本化）
+/custom_nodes_disabled/
